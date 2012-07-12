@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple.WebServer", "Simple.WebServer\Simple.WebServer.csproj", "{B3200670-8BA5-4AC8-9612-303FB6579189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple.WebServer.Test", "Simple.WebServer.Test\Simple.WebServer.Test.csproj", "{604A6B75-13F3-437F-A662-42D8DCDA2C26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple.WebServer.Console", "Simple.WebServer.Console\Simple.WebServer.Console.csproj", "{CA9A444B-701A-4552-AF8F-9F4C0A55E97D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{604A6B75-13F3-437F-A662-42D8DCDA2C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604A6B75-13F3-437F-A662-42D8DCDA2C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604A6B75-13F3-437F-A662-42D8DCDA2C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604A6B75-13F3-437F-A662-42D8DCDA2C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3200670-8BA5-4AC8-9612-303FB6579189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3200670-8BA5-4AC8-9612-303FB6579189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3200670-8BA5-4AC8-9612-303FB6579189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3200670-8BA5-4AC8-9612-303FB6579189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA9A444B-701A-4552-AF8F-9F4C0A55E97D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9A444B-701A-4552-AF8F-9F4C0A55E97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9A444B-701A-4552-AF8F-9F4C0A55E97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9A444B-701A-4552-AF8F-9F4C0A55E97D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
